@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ThermometerActivity!</string>
+    <string name="app_name">Vintage Therm</string>
+    <string name="title_activity_adv_progress_bar">AdvProgressBarActivity</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
